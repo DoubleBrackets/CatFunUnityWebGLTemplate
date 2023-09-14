@@ -8,3 +8,4 @@ Beware the horrible frontend code.
 To use:
 Download .zip and extract into Unity Project under Assets/WebGLTemplates
 
+Sample game: https://lucas-immanuel.itch.io/doors-the-game
